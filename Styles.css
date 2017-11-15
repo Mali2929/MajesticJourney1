@@ -1,0 +1,14 @@
+
+body {
+    background-color: #F7ECE;
+    padding: 100px;
+    color: #b76e79;
+    
+}
+
+a {
+    color:  #800020;
+    text-decoration: none;
+}
+
+a:hover { color: #A89447;}
